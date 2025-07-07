@@ -22,7 +22,7 @@ export default function Home() {
       {/* Mosaic Section */}
       <section id="mosaic" className="mt-28 w-full max-w-6xl mx-auto grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-8 px-2 md:px-4">
         <div className="bg-gray-800 p-6 rounded-3xl shadow-lg hover:shadow-xl transition">
-          <h2 className="text-2xl font-semibold mb-3 text-cyan-400">What We'll Do</h2>
+          <h2 className="text-2xl font-semibold mb-3 text-cyan-400">What We&apos;ll Do</h2>
           <p className="text-gray-300 text-sm">
             We will build a distributed network of intelligent micro-satellites in low Earth orbit to enhance global wireless communications by leveraging dynamic routing and space-grade technologies.
           </p>
